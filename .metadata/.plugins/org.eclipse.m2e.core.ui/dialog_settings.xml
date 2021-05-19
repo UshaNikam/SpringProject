@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\SpringProject\FormSubmissionUsingSpringMVC"/>
+			<item value="D:\SpringProject\SpringMVCApplication\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="D:\SpringProject\SpringMVCDemo\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="D:\SpringProject\TestSpringMVC"/>
+			<item value="D:\SpringProject\SpringJdbcApplication\src\main\java\org\techhub\DatabaseConnect.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="org.techhub.thSpringMVC_AddingCSSANDJS"/>
+			<item value="org.techhub.AddingCSSANDJS"/>
+			<item value="org.techhub.rd_SpringMVCProject"/>
+			<item value="org.techhub.FormSubmissionUsingSpringMVC"/>
+			<item value="org.techhub.SpringMVCApplication"/>
+			<item value="org.techhub"/>
+			<item value="org.techhub.SpringMVCDemo"/>
+		</list>
+		<list key="groupId">
+			<item value="org.techhub"/>
+		</list>
+		<list key="artifactId">
+			<item value="6thSpringMVC-AddingCSSANDJS"/>
+			<item value="AddingCSSANDJS"/>
+			<item value="3rd-SpringMVCProject"/>
+			<item value="FormSubmissionUsingSpringMVC"/>
+			<item value="SpringMVCApplication"/>
+			<item value="SpringMVCDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="TestSpringMVC"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="TestSpringMVC"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

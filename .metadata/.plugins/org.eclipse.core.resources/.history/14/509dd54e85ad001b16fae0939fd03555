@@ -1,0 +1,5 @@
+package org.techhub.SpringMVCProject.model;
+
+public class Register {
+
+}

@@ -1,0 +1,5 @@
+127.0.0.1 - - [11/May/2021:13:57:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/May/2021:13:57:34 +0530] "GET /6thSpringMVC-AddingCSSANDJS/ HTTP/1.1" 200 520
+0:0:0:0:0:0:0:1 - - [11/May/2021:13:57:34 +0530] "GET /6thSpringMVC-AddingCSSANDJS/resources/css/style.css;jsessionid=57CAC8CA409AEFD2B36EC5E08B9214B1 HTTP/1.1" 200 95
+0:0:0:0:0:0:0:1 - - [11/May/2021:13:58:59 +0530] "GET /6thSpringMVC-AddingCSSANDJS/ HTTP/1.1" 200 485
+0:0:0:0:0:0:0:1 - - [11/May/2021:13:58:59 +0530] "GET /6thSpringMVC-AddingCSSANDJS/resources/css/style.css HTTP/1.1" 200 95
